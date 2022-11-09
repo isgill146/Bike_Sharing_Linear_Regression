@@ -21,12 +21,10 @@ The company wants to know:
 #### Conclusion
 Significant variables to predict the demand for shared bikes
 
-holiday
-temp
-hum
-windspeed
-Season
-months(January, July, September, November, December)
-Year (2019)
-Sunday
-weathersit( Light Snow, Mist + Cloudy)
+- Season – Demand is highest in fall followed by summer, winter and spring.
+- Month – As stated above in season, the month graph shows the same result with the
+highest demand in the months of September, Oct, Aug (Fall)
+- Weathersit – Most bikes are booked in clear weather and least during light rain
+- Holiday – More bikes are booked when it’s not a holiday
+- Weekday – The trend is almost the same during the whole week
+- Workingday – The demand is more on a working day
